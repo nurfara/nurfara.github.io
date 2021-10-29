@@ -2,6 +2,12 @@ body {
 	background-color: #F9F2EC;
 }
 
+.centered {
+	left: 50%
+	position: fixed;
+	transform: translate(-50%);
+}
+
 nav {
 	width: 800px;
 	padding: 14px;
