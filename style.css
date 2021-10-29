@@ -3,15 +3,13 @@ body {
 }
 
 .centered {
-	left: 50%
-	transform: translate(-50%);
+	margin: 0 auto;
 }
 
 nav {
 	width: 800px;
 	padding: 14px;
-	left: 50%;
-	transform: translate(-50%);
+	margin: 0 auto;
 	background-color: black;
 	
 }
