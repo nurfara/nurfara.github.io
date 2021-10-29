@@ -1,19 +1,25 @@
 body {
 	background-color: #F9F2EC;
-	margin: 50 px 100 px 100 px 50 px;
 }
 
 nav {
-	float: left;
+	width: 800px;
+	padding: 14px;
+	left: 50%;
+	position: fixed;
+	transform: translate(-50%);
 	background-color: black;
+	
 }
 
 nav a {
 	display: inline;
 	color: white;
 	text-align: center;
-	padding: 14px 16px;
+	padding: 16px;
+	margin: 21px;
 	text-decoration: none;
+	
 }
 
 h2 {
